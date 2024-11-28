@@ -1,0 +1,5 @@
+search() {
+  this.filteredVideos = this.videos.filter(video =>
+    video.title.toLowerCase().includes(this.searchQuery.toLowerCase())
+  );
+}
