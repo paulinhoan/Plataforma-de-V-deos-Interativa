@@ -1,0 +1,11 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "Video 1",
+      "description": "Description for video 1",
+      "views": 100,
+      "thumbnail": "path/to/thumbnail.jpg"
+    }
+  ]
+}
